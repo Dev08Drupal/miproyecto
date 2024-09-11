@@ -7,7 +7,7 @@ const Header = () => {
       <nav>
         <ul>
           <li>
-            <NavLink to="/" activeClassName="active" exact>
+            <NavLink to="/miproyecto" activeClassName="active" exact>
               Home
             </NavLink>
           </li>
