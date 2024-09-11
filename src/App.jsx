@@ -2,7 +2,7 @@ import './assets/styles/main.scss';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
       <h1>Curso prueba react</h1>
     </div>
   );
