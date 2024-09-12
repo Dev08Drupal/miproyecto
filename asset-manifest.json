@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/miproyecto/static/css/main.9f9e95b6.css",
-    "main.js": "/miproyecto/static/js/main.e929cc8f.js",
+    "main.css": "/miproyecto/static/css/main.04e3daa2.css",
+    "main.js": "/miproyecto/static/js/main.9e399f7f.js",
     "static/js/453.cb03c0d9.chunk.js": "/miproyecto/static/js/453.cb03c0d9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/miproyecto/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/miproyecto/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/miproyecto/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/miproyecto/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/miproyecto/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/miproyecto/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/miproyecto/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/miproyecto/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/miproyecto/index.html",
-    "main.9f9e95b6.css.map": "/miproyecto/static/css/main.9f9e95b6.css.map",
-    "main.e929cc8f.js.map": "/miproyecto/static/js/main.e929cc8f.js.map",
+    "main.04e3daa2.css.map": "/miproyecto/static/css/main.04e3daa2.css.map",
+    "main.9e399f7f.js.map": "/miproyecto/static/js/main.9e399f7f.js.map",
     "453.cb03c0d9.chunk.js.map": "/miproyecto/static/js/453.cb03c0d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9e95b6.css",
-    "static/js/main.e929cc8f.js"
+    "static/css/main.04e3daa2.css",
+    "static/js/main.9e399f7f.js"
   ]
 }
